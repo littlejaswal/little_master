@@ -1,0 +1,5 @@
+id, username, password, ip_address, last_visit, total_visit, is_active, is_email_verified, companyname, title, firstname, lastname, address1, address2, phone, fax, city, zip, state, country, on_date, newsletter, total orders, 
+47, rocky.developer001@gmail.com, 7f64642d6901802798dd2ac05605cb1b, 127.0.0.1, 2011-02-01 00:00:00, 3, 1, 1, , Mr., developer001, developer001, developer001, developer001, 6546, 546546, developer001, 46, developer001, United Kingdom, 2011-02-01, 1, 0
+72, cwebconsultants@gmail.com, 123456, , 2011-04-27 16:17:56, 0, 1, 1, company, Mr., first name, last name, address, address2, phone, fax, city, zipcode, state, American Samoa, , 0, 0
+74, rocky.developer@gmail.com, e10adc3949ba59abbe56e057f20f883e, 192.168.1.11, 2011-05-14 00:00:00, 3, 1, 1, , Mr., Rocky, Developer, #683 sdfsdf, hkh, 7988789, 9811212121211, Houston, 34534, Texas, American Samoa, 2011-05-14, 1, 0
+81, rocky.developer005@gmail.com, 5e8edd851d2fdfbd7415232c67367cc3, 192.168.1.4, 2011-05-18 00:00:00, 4, 1, 1, , Mr., developer005, developer005, developer005, developer005, 435, 45643, developer005, developer005, developer005, United Kingdom, 2011-05-18, 0, 1

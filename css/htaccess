@@ -1,0 +1,7 @@
+AuthUserFile > /mnt/target02/350299/www.skimarble.com/web/content/community/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Restricted Access"
+AuthType Basic
+<limit GET>
+require valid-user
+</Limit> 

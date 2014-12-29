@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /graphic/
+Disallow: /upload/
+Disallow: /control/
+Disallow: /config/
+Disallow: /include/
+

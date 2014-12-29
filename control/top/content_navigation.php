@@ -1,0 +1,1 @@
+<a>Navigation</a><ul class="nav">	<li><a href="<?php echo make_admin_url('navigation', 'list', 'list');?>">List Navigation</a></li>	<li class="last"><a href="<?php echo make_admin_url('navigation', 'insert', 'insert', 'id=0');?>">New Navigation</a></li></ul>
